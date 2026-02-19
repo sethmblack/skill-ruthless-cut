@@ -3,8 +3,9 @@ name: ruthless-cut
 description: Apply Hemingway's editing principles to eliminate unnecessary words, adjectives, adverbs, and qualifications from any prose.
 license: MIT
 metadata:
+  version: 1.0.4890
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ruthless-cut
 - structure
